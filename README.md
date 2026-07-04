@@ -46,7 +46,7 @@ Analyzes employee turnover and identifies the most influential factors behind at
 
 ## Preview
 
-![Workforce Overview](Images/Employees.png)
+![Attrition Analysis](Images/Attrition.png)
 
 ---
 
@@ -72,7 +72,7 @@ Provides a complete overview of the organization's workforce.
 
 ## Preview
 
-![Attrition Analysis](Images/Attrition.png)
+![Workforce Overview](Images/Employees.png)
 
 ---
 
